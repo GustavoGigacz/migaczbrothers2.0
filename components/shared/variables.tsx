@@ -22,6 +22,11 @@ const CssVariables = createGlobalStyle`
   --container-width: 1234px;
   --container-padding: 0 16px;
 
+  /* FONTS */
+
+  --font-title: 'Sora', sans-serif;
+  --font-body:  'Inter', sans-serif;
+
  }
 `;
 
